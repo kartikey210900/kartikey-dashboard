@@ -1,4 +1,4 @@
-# Kartikey Dashboard
+# Product Dashboard
 
 Kartikey Dashboard is a React-based application for managing products. It allows users to view, add, and manage products with details like name, category, commission type, and more.
 
@@ -9,9 +9,11 @@ You can view the live demo of the project here: [Kartikey Dashboard](https://kar
 ## Screenshots
 
 ### Screenshot 1:
+
 ![Screenshot 1](path_to_screenshot_1.png)
 
 ### Screenshot 2:
+
 ![Screenshot 2](path_to_screenshot_2.png)
 
 ## Features
@@ -25,3 +27,4 @@ You can view the live demo of the project here: [Kartikey Dashboard](https://kar
 1. Clone the repository:
    ```bash
    git clone https://github.com/kartikey210900/kartikey-dashboard.git
+   ```
