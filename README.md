@@ -9,10 +9,10 @@ You can view the live demo of the project here: [Kartikey Dashboard](https://kar
 ## Screenshots
 
 ### Screenshot 1:
-![Screenshot 1](path_to_screenshot_1.png)
+![Screenshot 1](assets/addProduct.png)
 
 ### Screenshot 2:
-![Screenshot 2](path_to_screenshot_2.png)
+![Screenshot 2](assets/homepage.png)
 
 ## Features
 
